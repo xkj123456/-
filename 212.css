@@ -1,0 +1,35 @@
+
+caption{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: left;
+    color: ;
+}
+
+body {
+    font-family: : sans-serif;
+}
+
+
+
+
+th, td {
+    border: 1px solid blueviolet;
+    padding: 8px;
+}
+
+table {
+    broder-collapse: collapse;
+    border: 10px solid blue
+    text-align: center;
+    vertical
+}
+
+thead th {
+    width: 15%;
+}
+
+.cell-highlight {
+    background-color: gold;
+    font-weight: bold;
+}
